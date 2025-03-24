@@ -1,5 +1,9 @@
 # Entity Framework 10: "ExecuteUpdateAsync" now accepts a regular, non-expression lambda (.NET 10 and JetBrains Rider 2024.3.6)
 
+For more information about this repo please visit this web site: 
+
+https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-10.0/whatsnew#executeupdateasync-now-accepts-a-regular-non-expression-lambda
+
 ## 1. Donwload and Install .NET 10
 
 
